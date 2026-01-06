@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "unknown_status_123": {
+      "type": "integer"
+    },
+    "Playing": {
+      "type": "integer"
+    },
+    "5000": {
+      "type": "integer"
+    },
+    "string": {
+      "type": "integer"
+    },
+    "unavailable": {
+      "type": "integer"
+    },
+    "Busy": {
+      "type": "integer"
+    },
+    "pending": {
+      "type": "integer"
+    },
+    "available": {
+      "type": "integer"
+    },
+    "Not Available": {
+      "type": "integer"
+    },
+    "enjoying": {
+      "type": "integer"
+    },
+    "dummy": {
+      "type": "integer"
+    },
+    "avaliable": {
+      "type": "integer"
+    },
+    "Available": {
+      "type": "integer"
+    },
+    "energetic": {
+      "type": "integer"
+    },
+    "Eating": {
+      "type": "integer"
+    },
+    "sold": {
+      "type": "integer"
+    },
+    "6000": {
+      "type": "integer"
+    },
+    "singing": {
+      "type": "integer"
+    },
+    "avalible": {
+      "type": "integer"
+    },
+    "Walking": {
+      "type": "integer"
+    },
+    "SOLD": {
+      "type": "integer"
+    },
+    "Sleeping": {
+      "type": "integer"
+    },
+    "invalid_status": {
+      "type": "integer"
+    },
+    "Dancing": {
+      "type": "integer"
+    },
+    "Good": {
+      "type": "integer"
+    },
+    "Jumping": {
+      "type": "integer"
+    },
+    "status_2": {
+      "type": "integer"
+    },
+    "status_1": {
+      "type": "integer"
+    },
+    "status_3": {
+      "type": "integer"
+    }
+  }
+  
+}
